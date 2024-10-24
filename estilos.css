@@ -773,3 +773,7 @@ body {
   background-image: url(public/img/helback.png);
   background-size: cover;
 }
+a {
+  color:aliceblue;
+  text-decoration: none;
+}

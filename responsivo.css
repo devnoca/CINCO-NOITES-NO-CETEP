@@ -122,7 +122,7 @@
     border-top-right-radius: 150px;
   }
   .section-four {
-    height: 660px;
+    height: auto;
     width: auto;
     max-width: 100%;
     padding: 0;

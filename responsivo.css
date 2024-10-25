@@ -95,6 +95,7 @@
   }
   .section-two .info__container {
     flex-direction: column;
+    margin: 0 auto;
   }
   .section-two .info__img {
     margin: 0px 0px 0px;

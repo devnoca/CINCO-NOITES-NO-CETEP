@@ -69,7 +69,7 @@
 }
 
 /* Responsividade para tablets*/
-@media (min-width: 480px) and (max-width: 1280px) {
+@media (min-width: 480px) and (max-width: 1400px) {
   .section-one {
     height: 100vh;
     max-height: 100vh;
